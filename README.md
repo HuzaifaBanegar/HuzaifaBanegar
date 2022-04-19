@@ -1,7 +1,14 @@
 ### Hi there 👋
+<img style="width:100%" src="https://media.giphy.com/media/l4FGEfO2es6g8w4AU/giphy.gif"></img>
+<h1>I am Huzaifa Banegar</h1>
 
+![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuzaifaBanegar&show_icons=true&theme=radical)
+</br>
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaBanegar)
 <!--
 **HuzaifaBanegar/HuzaifaBanegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
