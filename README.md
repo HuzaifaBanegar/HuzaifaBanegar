@@ -19,7 +19,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 <hr/>
 
-## Let's get connected:
+<p><h3 align="center">Contact me on:</h3></p>
 
 <p>
     <a href="https://www.linkedin.com/in/huzaifabanegar/"><img alt="Linkedin"
@@ -34,11 +34,14 @@
     
 </p>
 
-
+<hr/>
 
 <p><h3 align="center">Huzaifa's Statistics:</h3></p>
 
-
+<p align="center"> 
+        <img height= "300px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=HuzaifaBanegar&show_icons=true&theme=radical" />
+        <img height= "300px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaBanegar" />
+ </p>
 ![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuzaifaBanegar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaBanegar)
 
