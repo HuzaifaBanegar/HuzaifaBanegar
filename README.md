@@ -7,7 +7,7 @@
 
  🌱 I’m currently learning React!</br>
  📫 How to reach me: banegarhuzzi1010@gmail.com </br>
- 🔭 I’m currently working on a restaurant application </br>
+ 🔭 I’m currently working on a LevelUp Platform</br>
  💬 Ask me about MERN </br>
  <hr/>
 <p><h3 align="center">Tech Stacks:</h3></p>
