@@ -8,6 +8,7 @@
  🌱 I’m currently learning NextJs!</br>
  📫 How to reach me: banegarhuzzi1010@gmail.com </br>
  🔭 I’m currently working on a quickblink product</br>
+     Work-github: https://github.com/BanegarHuzaifa </br>
  💬 Ask me about MERN </br>
  <hr/>
 <p><h3 align="center">Tech Stacks:</h3></p>
