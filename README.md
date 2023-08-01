@@ -5,9 +5,9 @@
 
 <h3 align="center">Analytical and detail-oriented, Full Stack developer. I'm eager to tackle web development challenges to achieve a lasting impact on user experience</h3>
 
- 🌱 I’m currently learning React!</br>
+ 🌱 I’m currently learning NextJs!</br>
  📫 How to reach me: banegarhuzzi1010@gmail.com </br>
- 🔭 I’m currently working on a LevelUp Platform</br>
+ 🔭 I’m currently working on a quickblink product</br>
  💬 Ask me about MERN </br>
  <hr/>
 <p><h3 align="center">Tech Stacks:</h3></p>
