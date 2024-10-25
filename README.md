@@ -5,7 +5,7 @@
 
 <h3 align="center">Analytical and detail-oriented, Full Stack developer. I'm eager to tackle web development challenges to achieve a lasting impact on user experience</h3>
 
- 🌱 I’m currently learning NextJs!</br>
+ 🌱 I’m currently learning Java and Backend Technologies!</br>
  📫 How to reach me: banegarhuzzi1010@gmail.com </br>
  🔭 I’m currently working on a quickblink product</br>
      Work-github: https://github.com/BanegarHuzaifa </br>
