@@ -84,6 +84,8 @@
 <!--   ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ga-arsod&show_icons=true&theme=gotham) -->
 </p>
 
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" alt="Github Stats" width="100%"/>
+
 
 <!--
 **HuzaifaBanegar/HuzaifaBanegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
