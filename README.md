@@ -67,10 +67,12 @@
 
 <p><h3 align="center">Huzaifa's Statistics:</h3></p>
 
-<p align="center"> 
-        <img height= "300px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=HuzaifaBanegar&show_icons=true&theme=radical" />
-        <img height= "300px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaBanegar" />
- </p>
+ <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=HuzaifaBanegar&show_icons=true&theme=gotham&show_icons=true&count_private=true" width=450/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaBanegar&layout=compact&theme=gotham&show_icons=true&count_private=true" width=350/>
+  
+<!--   ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ga-arsod&show_icons=true&theme=gotham) -->
+</p>
 
 
 <!--
