@@ -16,19 +16,23 @@
 <div display="flex">
  <p align="center">
     <img alt="Javascript"
-        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=red"
         height="25px" />
-   <img alt="Java"
-        src="https://img.shields.io/badge/Java-CEB1BE?style=for-the-badge&logo=java&logoColor=2D2D34"
-        height="25px" />
+ <img alt="Java"
+    src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=oracle&logoColor=BF0603"
+    height="25px" />
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
         height="25px" />
+   <img alt="NextJs" src="https://img.shields.io/badge/Next--Js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB"
+        height="25px" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
+        height="25px" />
+   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ADF5FF?style=flat-square&logo=mysql&logoColor=0075A2"
         height="25px" />
     <img alt="Nodejs"
         src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
         height="25px" />
-    <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
+    <img alt="npm" src="https://img.shields.io/badge/NPM-BF0603.svg?style=for-the-badge&logo=npm&logoColor=white"
         height="25px" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
         height="25px" />
@@ -37,6 +41,9 @@
         height="25px" />   
     <img alt="Material UI"
         src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
+        height="25px" />
+    <img alt="Tailwind"
+        src="https://img.shields.io/badge/Tailwind-336699?style=for-the-badge&logo=tailwindcss&logoColor=white"
         height="25px" />
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
         height="25px" />
@@ -58,10 +65,10 @@
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitesh-goshwami-88629a167/"
             height="35px" /></a>
     <a href="https://leetcode.com/u/HuzaifaBanegar/"><img alt="LeetCode"
-            src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.com/jd_23/"
+            src="https://img.shields.io/badge/-LeetCode-20232A?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.com/jd_23/"
             height="35px" /></a>
         <a href="banegarhuzzi1010@gmail.com"><img alt="Gmail"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=goswami.nitesh5794@gmail.com"
+            src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=goswami.nitesh5794@gmail.com"
             height="35px" width = "130px"/></a>
     
 </p>
