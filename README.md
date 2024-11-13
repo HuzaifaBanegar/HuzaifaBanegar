@@ -1,4 +1,4 @@
-<h1>Hi there👋 I am Huzaifa Banegar</h1>
+<h1 align="center" >Hi there👋 I am Huzaifa Banegar</h1>
 
 <p align="center"><img style="width:70%" src="https://technical.ly/philly/wp-content/uploads/sites/2/2017/07/giphy-71.gif"></img>
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true"></a></p>
@@ -14,7 +14,7 @@
 <p><h3 align="center">Tech Stacks:</h3></p>
 
 <div display="flex">
- <p>
+ <p align="center">
     <img alt="Javascript"
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
         height="25px" />
@@ -50,7 +50,7 @@
 
 <p><h3 align="center">Contact me on:</h3></p>
 
-<p>
+<p align="center">
     <a href="https://www.linkedin.com/in/huzaifabanegar/"><img alt="Linkedin"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitesh-goshwami-88629a167/"
             height="35px" /></a>
