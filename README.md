@@ -16,7 +16,7 @@
 <div display="flex">
  <p align="center">
     <img alt="Javascript"
-        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=red"
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow"
         height="25px" />
  <img alt="Java"
     src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=oracle&logoColor=BF0603"
