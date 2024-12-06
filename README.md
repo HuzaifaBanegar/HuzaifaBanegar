@@ -7,7 +7,7 @@
 
  🌱 I’m currently learning Java and Backend Technologies!</br>
  📫 How to reach me: banegarhuzzi1010@gmail.com </br>
- 🔭 I’m currently working on a quickblink product</br>
+ 🔭 I’m currently working on a SEOVigil product</br>
      Work-github: https://github.com/BanegarHuzaifa </br>
  💬 Ask me about MERN </br>
  <hr/>
