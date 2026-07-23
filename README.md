@@ -9,7 +9,7 @@
  📫 How to reach me: banegarhuzzi1010@gmail.com </br>
  🔭 I’m currently working on a SEOVigil product</br>
      Work-github: https://github.com/BanegarHuzaifa </br>
- 💬 Ask me about MERN </br>
+ 💬 Ask me about Java, MERN, DSA and Football😜 </br>
  <hr/>
 <p><h3 align="center">Tech Stacks:</h3></p>
 
